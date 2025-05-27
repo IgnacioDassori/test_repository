@@ -7,3 +7,4 @@ if __name__ == "__main__":
 
     print(f"{a} + {b} = {sum(a, b)}")
     print(f"{a} - {b} = {sub(a, b)}")
+    print(f"{a} * {b} = {mul(a, b)}")
