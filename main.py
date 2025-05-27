@@ -6,3 +6,4 @@ if __name__ == "__main__":
     b = 10
 
     print(f"{a} + {b} = {sum(a, b)}")
+    print(f"{a} - {b} = {sub(a, b)}")
