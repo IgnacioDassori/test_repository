@@ -5,6 +5,6 @@ if __name__ == "__main__":
     a = 5
     b = 10
 
-    operations = [sum, sub, div]
+    operations = [sum, sub, mul, div]
     for op in operations:
         print(f"{a} {op.__name__} {b} = {op(a,b)}")
